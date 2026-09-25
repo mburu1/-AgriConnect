@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+// Laravel Artisan CLI entry point

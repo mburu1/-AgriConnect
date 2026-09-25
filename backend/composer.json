@@ -1,0 +1,8 @@
+{
+    "name": "agriconnect/backend",
+    "type": "project",
+    "description": "AgriConnect Laravel backend API",
+    "require": {
+        "php": "^8.2"
+    }
+}
